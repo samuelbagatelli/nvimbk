@@ -26,6 +26,7 @@ return {
         "c",
         "cpp",
         "javascript",
+        "rust",
       },
     },
   },

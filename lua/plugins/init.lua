@@ -26,6 +26,8 @@ return {
         "c",
         "cpp",
         "javascript",
+        "rust",
+        "toml",
       },
     },
   },

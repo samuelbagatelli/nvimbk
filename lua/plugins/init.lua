@@ -27,6 +27,7 @@ return {
         "cpp",
         "javascript",
         "toml",
+        "vue",
       },
     },
   },

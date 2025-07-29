@@ -56,6 +56,7 @@ return {
         },
         tools = {
           inlay_hints = {
+            enable = true,
             auto = true,
             show_parameter_names = true,
             parameter_names_prefix = "",

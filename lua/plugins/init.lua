@@ -26,6 +26,8 @@ return {
         "cpp",
         "javascript",
         "toml",
+        "vue",
+        "typescript",
       },
     },
   },

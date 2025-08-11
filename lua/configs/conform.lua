@@ -3,8 +3,8 @@ local options = {
     lua = { "stylua" },
     python = { "black", "ruff", "isort" },
     c = { "clang-format" },
-    vue = { "prettier" },
-    javascript = { "prettier" },
+    vue = { "eslint_d", "prettier" },
+    javascript = { "eslint_d", "prettier" },
   },
 
   format_on_save = {

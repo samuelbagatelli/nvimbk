@@ -68,3 +68,13 @@ lspconfig.volar.setup {
     },
   },
 }
+
+lspconfig.clangd.setup {
+  cmd = {
+    "clangd",
+    "--fallback-style=webkit",
+  },
+  on_attach = nvlsp.on_attach,
+  on_init = nvlsp.on_init,
+  capabilities = nvlsp.capabilities,
+}
